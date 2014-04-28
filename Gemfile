@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 ruby '1.9.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -52,3 +52,4 @@ group :production do
 end   
 
 gem 'devise'
+gem 'paperclip', github: 'thoughtbot/paperclip'
