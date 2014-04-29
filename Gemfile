@@ -53,3 +53,4 @@ end
 
 gem 'devise'
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'aws-sdk', '~>1.20.0'
